@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\MyFiles\Courses\Lectures\Basic Combinational Logic Lab\simulation\modelsim
+Eand_gate
+Z1 w1571675188
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dD:\MyFiles\Courses\Lectures\Basic Combinational Logic Lab\simulation\modelsim
+Z5 8D:/MyFiles/Courses/Lectures/Basic Combinational Logic Lab/AND_GATE.vhd
+Z6 FD:/MyFiles/Courses/Lectures/Basic Combinational Logic Lab/AND_GATE.vhd
+l0
+L5
+VH2iNJ6L9VW8a1iV2I8ZkT0
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1573397146.239000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/MyFiles/Courses/Lectures/Basic Combinational Logic Lab/AND_GATE.vhd|
+Z10 !s107 D:/MyFiles/Courses/Lectures/Basic Combinational Logic Lab/AND_GATE.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 SEV[GmjKAdKZdMSz7f1=W0
+!i10b 1
+Abehavioral
+R2
+R3
+DEx4 work 8 and_gate 0 22 H2iNJ6L9VW8a1iV2I8ZkT0
+l14
+L14
+V`CBM=zfX6zza64`2^Kc0M1
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 _3CmEQE8fo:I7NRUPY>D:2
+!i10b 1
+Eand_gate_tb
+Z13 w1573394919
+R2
+R3
+R4
+Z14 8D:/MyFiles/Courses/Lectures/Basic Combinational Logic Lab/AND_GATE_tb.vhd
+Z15 FD:/MyFiles/Courses/Lectures/Basic Combinational Logic Lab/AND_GATE_tb.vhd
+l0
+L3
+VG3B<j5?`TF2;9o]BO_HXa0
+!s100 C4zInD7?BTM7CNAgZfC7K0
+R7
+31
+!i10b 1
+Z16 !s108 1573397146.633000
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/MyFiles/Courses/Lectures/Basic Combinational Logic Lab/AND_GATE_tb.vhd|
+Z18 !s107 D:/MyFiles/Courses/Lectures/Basic Combinational Logic Lab/AND_GATE_tb.vhd|
+R11
+R12
+Aand_gate_tb
+R2
+R3
+DEx4 work 11 and_gate_tb 0 22 G3B<j5?`TF2;9o]BO_HXa0
+l13
+L5
+V_5B78=K?3[4dBVRj[JHzN3
+!s100 dYPZ^8_bSUnl3MGiFB]Qn0
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12
